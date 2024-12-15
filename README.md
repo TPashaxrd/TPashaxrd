@@ -1,6 +1,7 @@
 <h1 align="center">🇹🇷 Hi 👋, I'm Toprak Ataoglu</h1>
 <h3 align="center">I'm Entrepreneur with I'm FRONT-END Developer. </h3>
 
+<h4>I'm working as Nivesoft Company</h4>
 <a href="mailto:altintoprak06@gmail.com">altintoprak06@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
