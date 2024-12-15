@@ -1,6 +1,8 @@
 <h1 align="center">🇹🇷 Hi 👋, I'm Toprak Ataoglu</h1>
 <h3 align="center">I'm Entrepreneur with I'm FRONT-END Developer. </h3>
 
+<a href="mailto:altintoprak06@gmail.com">altintoprak06@gmail.com</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/28609403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28609403" height="30" width="40" /></a>
