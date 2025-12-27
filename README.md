@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tpashaxrd&label=Profile%20views&color=0e75b6&style=flat" alt="tpashaxrd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tpashaxrd" alt="tpashaxrd" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tpashaxrd" alt="tpashaxrd" /></a> </p> -->
 
 - 📫 Mail, Instagram and Discord **altintoprak06@gmail.com**
 - <a href="https://instagram.com/toprak.altins">Instagram</a> <a href="https://discord.gg/astharia">Discord</a> and E-Mail
