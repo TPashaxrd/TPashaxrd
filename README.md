@@ -5,8 +5,8 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tpashaxrd" alt="tpashaxrd" /></a> </p> -->
 
-- 📫 Mail, Instagram and Discord **altintoprak06@gmail.com**
-- <a href="https://instagram.com/toprak.altins">Instagram</a> <a href="https://discord.gg/astharia">Discord</a> and E-Mail
+- 📫 Mail, Instagram **altintoprak06@gmail.com**
+- <a href="https://instagram.com/toprak.altins">Instagram</a> and E-Mail
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
