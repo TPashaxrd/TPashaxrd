@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Toprak</h1>
+<h1 align="center">Hi 👋, I'm Toprak Doğan</h1>
 <h3 align="center">Fullstack web dev with Entrepreneur from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tpashaxrd&label=Profile%20views&color=0e75b6&style=flat" alt="tpashaxrd" /> </p>
